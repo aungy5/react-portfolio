@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Text Editor",
-        "image": "NEED IMAGE",
+        "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/texteditor2.jpeg",
         "github": "https://github.com/aungy5/text-editor",
         "deploy": "https://powerful-sierra-62510.herokuapp.com/",
         "technologies": "node-js, indexedDB, webpack plugins, serviceWorkers"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Note Taker App",
-        "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/NoteTaker.png",
+        "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/noteTaker2.jpeg",
         "github": "https://github.com/aungy5/Note_Taker_App",
         "deploy": "https://radiant-hollows-63802.herokuapp.com/",
         "technologies": "node-js, express-js, API routing"
