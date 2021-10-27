@@ -11,10 +11,12 @@ function Navigation(props) {
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-        <a class="nav-link" href="#projects">Projects</a>
-        <a class="nav-link" href="#aboutme">About Me</a>
+        <NavLink to="/portfolio"><a class="nav-link">Portfolio</a></NavLink>
         <a class="nav-link" href="https://github.com/aungy5?tab=repositories">GitHub</a>
         <a class="nav-link" href="https://www.linkedin.com/in/aungy/">LinkedIn</a>
+        <NavLink to="/resume"><a class="nav-link">Resume</a></NavLink>
+        <NavLink to="/contact"><a class="nav-link">Contact</a></NavLink>
+
       </div>
     </div>
   </nav>
