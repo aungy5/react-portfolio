@@ -10,7 +10,7 @@ function Navigation(props) {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-      <NavLink to="/about"><a class="nav-link active" href="#">About Me</a></NavLink>
+      <NavLink to="/about"><a class="nav-link" href="#">About Me</a></NavLink>
         <NavLink to="/portfolio"><a class="nav-link">Portfolio</a></NavLink>
 
         {/* <a class="nav-link" href="https://github.com/aungy5?tab=repositories">GitHub</a>

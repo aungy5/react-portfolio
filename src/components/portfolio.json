@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "BookSearch App",
-    "image": "react-portfolio/public/images/books.jpeg",
+    "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/books.jpeg",
     "github": "https://github.com/az84/Project-1",
     "deploy": "https://az84.github.io/Project-1/",
     "technologies": "RESTful APIs, Zurb(CSS Framework), HTML, LocalStorage"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Tech Blog",
-        "image": "react-portfolio/public/images/techblog2.jpg",
+        "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/techblog2.jpg",
         "github": "https://github.com/aungy5/my_tech_blog",
         "deploy": "https://pacific-sands-24014.herokuapp.com/",
         "technologies": "handlebars-js, sequelize, mysql, express-js"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "eCommerce Backend",
-        "image": "react-portfolio/public/images/eCommerce.jpeg",
+        "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/eCommerce.jpeg",
         "github": "https://github.com/aungy5/ecommerce_backend",
         "deploy": "https://drive.google.com/file/d/1CJ_JjYnQ2GxqqWeCXtM8RKFgkMpKDq_M/view?usp=sharing",
         "technologies": "node-js, express-js, sequelize, mysql"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Note Taker App",
-        "image": "react-portfolio/public/images/note-taking.png",
+        "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/NoteTaker.png",
         "github": "https://github.com/aungy5/Note_Taker_App",
         "deploy": "https://radiant-hollows-63802.herokuapp.com/",
         "technologies": "node-js, express-js, API routing"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Employee Management System",
-        "image": "react-portfolio/public/images/employeeManagement2.jpeg",
+        "image": "https://github.com/aungy5/react-portfolio/raw/main/public/images/employeeManagement2.jpeg",
         "github": "https://github.com/aungy5/Employee_Management_System",
         "deploy": "https://drive.google.com/file/d/11UOp7WwtgNTd8XSlR3SfgL_2Jdml21HV/view?usp=sharing",
         "technologies": "node-js, mysql, inquirer"
