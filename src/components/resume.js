@@ -10,9 +10,8 @@ const padding = {
 }
 
 const titleStyle = {
-  backgroundColor: '#595959',
-  padding: '20px',
-  color: '#ff1a1a'
+  backgroundColor: 'red',
+  padding: '20px'
 }
 
 function Resume() {

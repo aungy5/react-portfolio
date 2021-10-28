@@ -1,9 +1,5 @@
 import React from 'react';
 
-const padding = {
-    padding: '20px'
-}
-
 const info = {
     display: 'flex',
     flexDirection: 'column',

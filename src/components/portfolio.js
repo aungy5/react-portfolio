@@ -9,21 +9,22 @@ import ProjectCards from './projects';
 //     color: '#ff1a1a'
 // }
 
+const padding = {
+    padding: '10px'
+}
+
 const titleStyle = {
     backgroundColor: 'red',
     padding: '20px'
 }
 
 function Wrapper(props) {
-    return <div className="wrapper">{props.children}</div>
+    return <div className="wrapper" style={padding}>{props.children}</div>
 }
 
 function Portfolio () {
     return(
         <section>
-            <div className="projectHeader">
-                <h1 className="projectTitle" style={titleStyle}>Development Portfolio</h1>
-            </div>
 
             <Wrapper id="project-data">
                 {portfolio.map((project) => (
