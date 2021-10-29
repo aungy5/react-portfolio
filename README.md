@@ -1,6 +1,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   # REACT Portfolio
+  
+  Link to application repository => 
+https://github.com/aungy5/react-portfolio
+
+Link to deployed app => https://aungy5.github.io/react-portfolio/
+  
   ## Table of Contents
 - [Description](#description)
 
