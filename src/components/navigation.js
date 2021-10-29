@@ -1,5 +1,6 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 const navStyle = {
   color: 'red'
@@ -15,9 +16,9 @@ const barStyle = {
 
 function Navigation(props) {
     return (
-    <nav class="navbar navbar-expand-lg navbar-light bg-dark" style={barStyle}>
+    <nav className="navbar navbar-expand-lg navbar-light bg-dark" style={barStyle}>
     <a class="navbar-brand" style={navStyle} href="#">Andrew Ungvary</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
