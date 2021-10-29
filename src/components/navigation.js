@@ -5,6 +5,10 @@ const navStyle = {
   color: 'red'
 }
 
+const activeLink = {
+  fontWeight: 'bold'
+}
+
 const barStyle = {
   width: '100%'
 }
@@ -19,7 +23,7 @@ function Navigation(props) {
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
       <NavLink to="/about"><a class="nav-link" style={navStyle}>About Me</a></NavLink>
-        <NavLink to="/portfolio"><a class="nav-link" style={navStyle}>Portfolio</a></NavLink>
+        <NavLink to="/portfolio"><a class="nav-link active" style={navStyle}>Portfolio</a></NavLink>
 
         {/* <a class="nav-link" href="https://github.com/aungy5?tab=repositories">GitHub</a>
         <a class="nav-link" href="https://www.linkedin.com/in/aungy/">LinkedIn</a> */}

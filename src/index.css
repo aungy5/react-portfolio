@@ -49,4 +49,9 @@ header {
   color: red;
 }
 
+.active {
+  background-color: white;
+  font-weight: bold;
+}
+
 
